@@ -1,12 +1,12 @@
 const CACHE_NAME = "dicoding-story-app-v2";
 const LOCAL_ASSETS_TO_CACHE = [
-  "/",
-  "/index.html",
-  "/app.bundle.js",
-  "/app.css",
-  "/manifest.json",
-  "/favicon.png",
-  "/images/logo.png",
+  "/dicoding-story-app/",
+  "/dicoding-story-app/index.html",
+  "/dicoding-story-app/app.bundle.js",
+  "/dicoding-story-app/app.css",
+  "/dicoding-story-app/manifest.json",
+  "/dicoding-story-app/favicon.png",
+  "/dicoding-story-app/images/logo.png",
 ];
 const CDN_ASSETS_TO_CACHE = [];
 
